@@ -1,2 +1,14 @@
 # cnjcw-vip-guide
-HTML page archive and documentation
+
+静态内容发布记录
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 发布目录
+
+- HTML 文件保存在当前仓库
+- GitHub Pages 可用于公开访问
+
+## 页面说明
+
+每个 HTML 文件都是独立页面，具体内容请打开对应文件查看。
